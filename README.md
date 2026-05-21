@@ -41,12 +41,6 @@ The raw file had one row per product with multiple reviews packed into each cell
 **Top positive words:** good, quality, nice, best, easy  
 **Top negative words:** issue, problem, bad, cheap, poor
 
-## How to run
-
-1. Make sure `amazon.csv` is in the same folder as the notebook
-2. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn openpyxl`
-3. Open `sentiment_analysis.ipynb` in Jupyter and run all cells
-
 ## Tools used
 
 - Python, pandas, numpy
